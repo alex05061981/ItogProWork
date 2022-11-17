@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\bin\Debug\net6.0\ITOGPRORAB.exe
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\bin\Debug\net6.0\ITOGPRORAB.deps.json
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\bin\Debug\net6.0\ITOGPRORAB.runtimeconfig.json
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\bin\Debug\net6.0\ITOGPRORAB.dll
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\bin\Debug\net6.0\ITOGPRORAB.pdb
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.dll
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\refint\ITOGPRORAB.dll
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.pdb
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ITOGPRORAB.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\IPR\ITOGPRORAB\obj\Debug\net6.0\ref\ITOGPRORAB.dll
